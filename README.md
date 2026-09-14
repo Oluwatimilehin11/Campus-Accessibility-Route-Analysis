@@ -1,4 +1,4 @@
-# Campus Accessible Navigation Analysis
+# Campus Accessible Route Analysis
 
 A data collection and analysis project evaluating step-free transit efficiency and physical accessibility constraints across campus routes.
 
