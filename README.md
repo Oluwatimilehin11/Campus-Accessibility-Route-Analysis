@@ -6,7 +6,7 @@ A data collection and analysis project evaluating step-free transit efficiency a
 
 ## Overview
 
-Navigating multi-level campus facilities presents significant bottlenecks for individuals relying on stair-free transit (e.g., wheelchair users, individuals with mobility aids, or service equipment). This project maps, times, and evaluates designated accessible paths between critical campus locations to quantify transit time differentials and identify physical infrastructure constraints.
+ Multi-level campus facilities presents significant bottlenecks for individuals relying on stair-free transit (e.g., wheelchair users, individuals with mobility aids, or service equipment). This project maps, times, and evaluates designated accessible paths between critical campus locations to quantify transit time differentials and identify physical infrastructure constraints.
 
 ## Key Features & Scope
 
